@@ -51,7 +51,7 @@ class CurrentWeatherViewModel : ViewModel() {
                 val response =
                     openWeatherApi.getCurrentWeatherData(
                         cityName,
-                        "2dbf6a905778a62678f46bbc0db92ed4"
+                        ""
                     )
                 if (response.isSuccessful) {
                     val currentWeatherData = response.body()!!
