@@ -1,7 +1,7 @@
 # WeatherNow - App Android para Verificar o Clima
 
 ## Descrição
-É um aplicativo móvel para dispositivos Android desenvolvido em uma aula da escola em que trabalho, a Trybe. O app permite aos usuários verificar o clima atual de diferentes cidades. Utilizando a API do OpenWeatherMap, o aplicativo fornece informações precisas sobre temperatura, condições climáticas, umidade, velocidade do vento e muito mais para uma variedade de localizações em todo o mundo.
+É um aplicativo móvel para dispositivos Android desenvolvido em uma aula da escola de programação em que trabalho atualmente, a Trybe. O app permite aos usuários verificar o clima atual de diferentes cidades. Utilizando a API do OpenWeatherMap, o aplicativo fornece informações precisas sobre temperatura, condições climáticas, umidade, velocidade do vento e muito mais para uma variedade de localizações em todo o mundo.
 
 O aplicativo foi desenvolvido em Kotlin, oferecendo uma experiência amigável e intuitiva para os usuários acompanharem o clima onde quer que estejam.
 
