@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trybe Clima</string>
+    <string name="temp_max">Temp. Máxima:</string>
+    <string name="temp_min">Temp. Mínima:</string>
+    <string name="temp_with_two_digits_format">%.2f ºC</string>
+    <string name="temp_with_one_digits_format">%.1f ºC</string>
+    <string name="humidity_with_percentage_format">%d%%</string>
+    <string name="fells_like">Sensação Term.:</string>
+    <string name="humidity">Umidade:</string>
+</resources>
